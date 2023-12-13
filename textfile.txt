@@ -1,4 +1,8 @@
  hi hello
 good afternoon
+<<<<<<< HEAD
 jenin benedict.. irai
+=======
+jenin
+>>>>>>> parent of 26a3e42 (changed)
 
